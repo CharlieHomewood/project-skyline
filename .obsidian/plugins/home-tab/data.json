@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Kanban/Cards/Set up Obsidian vault.md",
+      "timestamp": 1747092581740
+    },
+    {
       "filepath": "My Dashboard.md",
-      "timestamp": 1747092295956
+      "timestamp": 1747092501704
     },
     {
       "filepath": "Kanban/Cards/Begin to learn Unreal.md",
@@ -34,10 +38,6 @@
     {
       "filepath": "Kanban/Cards/Write out initial story ideas.md",
       "timestamp": 1747092260780
-    },
-    {
-      "filepath": "Kanban/Cards/Set up Obsidian vault.md",
-      "timestamp": 1747092259069
     }
   ],
   "bookmarkedFileStore": [],
