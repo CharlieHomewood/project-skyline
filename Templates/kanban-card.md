@@ -24,8 +24,6 @@ date completed:
 date due: 
 ---
 
-## Description
-
 description::<br>
 
 ## Relevant Notes
