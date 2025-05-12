@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Kanban/Cards/Write out initial story ideas.md",
+      "timestamp": 1747090456820
+    },
+    {
+      "filepath": "Kanban/Boards/Task Progress Review.md",
+      "timestamp": 1747090455107
+    },
+    {
+      "filepath": "My Dashboard.md",
+      "timestamp": 1747090447588
+    },
+    {
       "filepath": "Kanban/Cards/test example.md",
       "timestamp": 1747090307477
     },
     {
-      "filepath": "Kanban/Boards/Task Progress Review.md",
-      "timestamp": 1747090295983
-    },
-    {
-      "filepath": "My Dashboard.md",
-      "timestamp": 1747090027884
-    },
-    {
       "filepath": "Templates/kanban-card.md",
       "timestamp": 1747090009812
-    },
-    {
-      "filepath": "Templates/meeting.md",
-      "timestamp": 1747090004249
     }
   ],
   "bookmarkedFileStore": [],

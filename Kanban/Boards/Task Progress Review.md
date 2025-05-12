@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Write out initial story ideas
+- [ ] [[Write out initial story ideas]]
 - [ ] Begin to learn Unreal
 - [ ] Begin to learn hollow knight camera mechanics
 - [ ] Set up GitHub repo for game
