@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] [[Write out initial story ideas]]
 
 
 ## In-Progress
