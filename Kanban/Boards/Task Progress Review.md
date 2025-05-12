@@ -16,7 +16,6 @@ kanban-plugin: board
 - [ ] Come up with ideas/opinions on the ideas for story/ character stuff
 - [ ] [[test example]]
 - [ ] this is an example
-- [ ] dsoampgerw
 
 
 ## In-Progress (15)
