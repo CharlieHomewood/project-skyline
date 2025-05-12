@@ -24,4 +24,4 @@ date completed:
 date due: 
 ---
 
-description:: This is a description
+description::<br>
