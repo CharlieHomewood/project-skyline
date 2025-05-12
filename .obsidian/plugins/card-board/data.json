@@ -21,7 +21,7 @@
               "collapsed": false,
               "name": "In-Progress",
               "range": {
-                "tag": "before",
+                "tag": "after",
                 "data": 0
               }
             }
