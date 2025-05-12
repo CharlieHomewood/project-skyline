@@ -9,6 +9,7 @@ while (true) {
   assignees.push(selectedPerson);
   people = people.filter(person => person !== selectedPerson);
 }
+assignees.sort();
 _%>
 ---
 assignees:
@@ -22,3 +23,5 @@ date created: <% tp.file.creation_date("YYYY-MM-DD") %>
 date completed:
 date due: 
 ---
+
+description:: This is a description
