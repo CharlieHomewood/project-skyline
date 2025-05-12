@@ -1,5 +1,5 @@
 <%*
-let people = ["Bronwyn", "Charlie", "Ethan", "Harvey", "Jamie", "Louis", "Mark"];
+let people = ["Bronwen", "Charlie", "Ethan", "Harvey", "Jamie", "Louis", "Mark"];
 const assignees = [];
 while (true) {
   const selectedPerson = await tp.system.suggester(person => person, people);
