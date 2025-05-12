@@ -1,7 +1,15 @@
 <%*
-let title = tp.date.now("YYYY-MM-DD") 
-await tp.file.move("Meetings/" + tp.file.title)
-await tp.file.rename(title)
+let title = tp.date.now("YYYY-MM-DD");
+let existingFile = app.vault.getFiles().find(f => f.path === "Meetings/" + title + ".md");
+
+if (!existingFile) {
+  await tp.file.move("Meetings/" + tp.file.title); 
+  await tp.file.rename(title);
+} else {
+  title = title + "-New"; 
+  await tp.file.rename(title);
+}
+
 let people = ["Bronwen", "Charlie", "Ethan", "Harvey", "Jamie", "Louis", "Mark"];
 const attendees = [];
 while (true) {
@@ -22,7 +30,7 @@ const files = app.vault.getFiles()
 
 const fileNames = files.map(f => f.name.replace(".md", ""));
 
-const index = fileNames.indexOf(currentFile);
+const index = fileNames.indexOf(title);
 
 let previousLink = index > 0 ? `[[Meetings/${fileNames[index - 1]}|Previous Meeting]]` : "No previous meeting";
 let nextLink = index >= 0 && index < fileNames.length - 1 ? `[[Meetings/${fileNames[index + 1]}|Next Meeting]]` : "No next meeting";
