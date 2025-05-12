@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Templates/daily-note.md",
+      "timestamp": 1747075773105
+    },
+    {
       "filepath": "Kanban/Cards/test example.md",
       "timestamp": 1747072200117
     },
@@ -34,10 +38,6 @@
     {
       "filepath": "Kanban/Boards/Task Progress Review.md",
       "timestamp": 1747072185799
-    },
-    {
-      "filepath": "My Dashboard.md",
-      "timestamp": 1747071097050
     }
   ],
   "bookmarkedFileStore": [],
