@@ -20,5 +20,5 @@ for (let i = 0; i < assignees.length; i++) {
 completed: false
 date created: <% tp.file.creation_date("YYYY-MM-DD") %>
 date completed:
+date due: 
 ---
-
