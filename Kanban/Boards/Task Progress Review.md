@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] [[test]]
 
 
 ## In-Progress (15)
@@ -25,6 +26,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"show-checkboxes":true,"hide-card-count":false,"tag-action":"kanban","metadata-keys":[{"metadataKey":"assignees","label":"Assignees","shouldHideLabel":false,"containsMarkdown":false}]}
 ```
 %%

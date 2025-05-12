@@ -25,11 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "Kanban/Boards/Task Progress Review.md",
-      "timestamp": 1747069019930
+      "timestamp": 1747069234684
     },
     {
       "filepath": "My Dashboard.md",
-      "timestamp": 1747069005323
+      "timestamp": 1747069233619
+    },
+    {
+      "filepath": "Kanban/Cards/test.md",
+      "timestamp": 1747069206981
     }
   ],
   "bookmarkedFileStore": [],
