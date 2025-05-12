@@ -1,8 +1,16 @@
-<%
-let people = ["Alice", "Bob", "Charlie", "Dana"];
-let selected = await tp.system.suggester(people, people, true);
-%>
+<%*
+let people = ["Bronwyn", "Charlie", "Ethan", "Harvey", "Jamie", "Louis", "Mark"];
+const assignees = [];
+while (true) {
+  const selectedPerson = await tp.system.suggester(person => person, people);
+  if (!selectedPerson) {
+    break;
+  }
+  assignees.push(selectedPerson);
+  people = people.filter(person => person !== selectedPerson);
+}
+_%>
 ---
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
-assignees: <% selected %>
+assignees: <% assignees %>
 ---
