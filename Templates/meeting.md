@@ -22,3 +22,14 @@ for (let i = 0; i < attendees.length; i++) {
 }
 -%>
 ---
+
+◀️ Last Meeting: [[Meetings/<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>|<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]]
+
+▶️ Next Meeting: [[Meetings/<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>|<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]]
+
+> [!summary] 
+>  - 
+
+## Notes
+
+
