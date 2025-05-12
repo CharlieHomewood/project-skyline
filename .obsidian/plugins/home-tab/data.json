@@ -24,24 +24,8 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Templates/kanban-card.md",
-      "timestamp": 1747092715425
-    },
-    {
-      "filepath": "Kanban/Cards/Write out initial story ideas.md",
-      "timestamp": 1747092712889
-    },
-    {
-      "filepath": "Kanban/Boards/Task Progress Review.md",
-      "timestamp": 1747092674727
-    },
-    {
-      "filepath": "Kanban/Cards/Set up Obsidian vault.md",
-      "timestamp": 1747092666166
-    },
-    {
-      "filepath": "My Dashboard.md",
-      "timestamp": 1747092662628
+      "filepath": "Templates/meeting.md",
+      "timestamp": 1747093647671
     }
   ],
   "bookmarkedFileStore": [],

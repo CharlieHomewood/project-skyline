@@ -6,15 +6,14 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] [[Write out initial story ideas]]
+- [ ] Write out initial story ideas
 - [ ] Begin to learn hollow knight camera mechanics
 - [ ] Begin to learn Unreal
 - [ ] Set up GitHub repo for game
-- [ ] [[Set up Obsidian vault]]
+- [ ] Set up Obsidian vault
 - [ ] Make art style guide
 - [ ] Start asset creation
 - [ ] Come up with ideas/opinions on the ideas for story/ character stuff
-- [ ] this is an example
 
 
 ## In-Progress (15)
