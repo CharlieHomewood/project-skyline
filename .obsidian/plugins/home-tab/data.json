@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Templates/Untitled.md",
-      "timestamp": 1747076449017
+      "filepath": "Templates/meeting.md",
+      "timestamp": 1747076690445
+    },
+    {
+      "filepath": "Templates/kanban-card.md",
+      "timestamp": 1747076688017
     },
     {
       "filepath": "My Dashboard.md",
@@ -34,10 +38,6 @@
     {
       "filepath": "Kanban/Cards/test example.md",
       "timestamp": 1747076162185
-    },
-    {
-      "filepath": "Templates/kanban-card.md",
-      "timestamp": 1747076040740
     },
     {
       "filepath": "Kanban/Boards/Task Progress Review.md",
