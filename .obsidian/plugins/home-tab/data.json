@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Templates/meeting.md",
-      "timestamp": 1747089189237
+      "filepath": "My Dashboard.md",
+      "timestamp": 1747090027884
     },
     {
       "filepath": "Templates/kanban-card.md",
-      "timestamp": 1747089047647
+      "timestamp": 1747090009812
+    },
+    {
+      "filepath": "Templates/meeting.md",
+      "timestamp": 1747090004249
     }
   ],
   "bookmarkedFileStore": [],
