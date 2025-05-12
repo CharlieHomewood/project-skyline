@@ -23,9 +23,10 @@ date created: <% tp.file.creation_date("YYYY-MM-DD") %>
 date completed:
 date due: 
 ---
-# Description
+
+## Description
 
 description::<br>
 
-# Relevant Notes
+## Relevant Notes
 
