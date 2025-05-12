@@ -24,12 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Templates/kanban-card.md",
-      "timestamp": 1747075924792
+      "filepath": "Kanban/Cards/test example.md",
+      "timestamp": 1747075941775
     },
     {
-      "filepath": "Kanban/Cards/test example.md",
-      "timestamp": 1747075920489
+      "filepath": "Templates/kanban-card.md",
+      "timestamp": 1747075924792
     },
     {
       "filepath": "Kanban/Boards/Task Progress Review.md",
