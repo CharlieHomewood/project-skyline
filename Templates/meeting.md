@@ -24,8 +24,8 @@ const fileNames = files.map(f => f.name.replace(".md", ""));
 
 const index = fileNames.indexOf(currentFile);
 
-let previousLink = index > 0 ? `[[Meetings/${fileNames[index - 1]}|Previous Meeting]]` : "_No previous meeting_";
-let nextLink = index < fileNames.length - 1 ? `[[Meetings/${fileNames[index + 1]}|Next Meeting]]` : "_No next meeting_";
+let previousLink = index > 0 ? `[[Meetings/${fileNames[index - 1]}|Previous Meeting]]` : "No previous meeting";
+let nextLink = index >= 0 && index < fileNames.length - 1 ? `[[Meetings/${fileNames[index + 1]}|Next Meeting]]` : "No next meeting";
 _%>
 ---
 attendees:

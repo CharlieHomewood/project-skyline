@@ -25,7 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "Templates/meeting.md",
-      "timestamp": 1747093647671
+      "timestamp": 1747094039213
+    },
+    {
+      "filepath": "Meetings/2024-03-02.md",
+      "timestamp": 1747094023062
+    },
+    {
+      "filepath": "Templates/kanban-card.md",
+      "timestamp": 1747093946225
     }
   ],
   "bookmarkedFileStore": [],
