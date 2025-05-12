@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] [[Write out initial story ideas]]
 - [ ] Begin to learn hollow knight camera mechanics
-- [ ] [[Begin to learn Unreal]]
+- [ ] Begin to learn Unreal
 - [ ] Set up GitHub repo for game
 - [ ] [[Set up Obsidian vault]]
 - [ ] Make art style guide

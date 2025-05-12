@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Kanban/Cards/Set up Obsidian vault.md",
-      "timestamp": 1747092581740
-    },
-    {
-      "filepath": "My Dashboard.md",
-      "timestamp": 1747092501704
-    },
-    {
-      "filepath": "Kanban/Cards/Begin to learn Unreal.md",
-      "timestamp": 1747092267065
+      "filepath": "Templates/kanban-card.md",
+      "timestamp": 1747092715425
     },
     {
       "filepath": "Kanban/Cards/Write out initial story ideas.md",
-      "timestamp": 1747092260780
+      "timestamp": 1747092712889
+    },
+    {
+      "filepath": "Kanban/Boards/Task Progress Review.md",
+      "timestamp": 1747092674727
+    },
+    {
+      "filepath": "Kanban/Cards/Set up Obsidian vault.md",
+      "timestamp": 1747092666166
+    },
+    {
+      "filepath": "My Dashboard.md",
+      "timestamp": 1747092662628
     }
   ],
   "bookmarkedFileStore": [],
