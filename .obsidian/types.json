@@ -5,6 +5,8 @@
     "tags": "tags",
     "date": "date",
     "assignees": "multitext",
-    "date completed": "date"
+    "date completed": "date",
+    "date created": "date",
+    "is completed": "checkbox"
   }
 }

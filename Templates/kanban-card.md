@@ -11,7 +11,10 @@ while (true) {
 }
 _%>
 ---
-assignees: <% assignees %>
+assignees:
+  - <% assignees %>
+completed: false
 date created: <% tp.file.creation_date("YYYY-MM-DD") %>
-date completed: 
+date completed:
 ---
+
