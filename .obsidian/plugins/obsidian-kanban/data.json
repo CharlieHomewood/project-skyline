@@ -1,7 +1,8 @@
 {
   "new-note-template": "Templates/kanban-card.md",
   "new-note-folder": "Kanban/Cards",
-  "show-checkboxes": true,
+  "show-checkboxes": false,
   "tag-colors": [],
-  "lane-width": 400
+  "lane-width": 400,
+  "date-trigger": "@"
 }

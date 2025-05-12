@@ -6,19 +6,19 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] [[Test]]
 
 
-## In-Progress
+## In-Progress (15)
 
 
 
-## Peer-Review
+## Peer-Review (15)
 
 
 
 ## Completed
 
+**Complete**
 
 
 
