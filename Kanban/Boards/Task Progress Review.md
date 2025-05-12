@@ -15,6 +15,7 @@ kanban-plugin: board
 - [ ] Start asset creation
 - [ ] Come up with ideas/opinions on the ideas for story/ character stuff
 - [ ] [[test example]]
+- [ ] this is an example
 
 
 ## In-Progress (15)
