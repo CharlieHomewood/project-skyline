@@ -24,15 +24,23 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Kanban/Boards/Task Progress Review.md",
+      "timestamp": 1747068593150
+    },
+    {
+      "filepath": "Tasks/Tasks.md",
+      "timestamp": 1747068560441
+    },
+    {
       "filepath": "My Dashboard.md",
-      "timestamp": 1747068160849
+      "timestamp": 1747068244507
     }
   ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": false,
   "newTabOnStart": true,
-  "closePreviousSessionTabs": false,
+  "closePreviousSessionTabs": true,
   "omnisearch": false,
   "showOmnisearchExcerpt": true
 }
