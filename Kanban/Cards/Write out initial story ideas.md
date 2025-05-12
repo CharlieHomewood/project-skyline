@@ -12,3 +12,4 @@ description::<br>
 
 ## Relevant Notes
 
+[[a story idea]]
