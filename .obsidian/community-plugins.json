@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-kanban",
   "templater-obsidian",
-  "dataview"
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "obsidian-tasks-plugin"
 ]
