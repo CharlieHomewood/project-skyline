@@ -11,6 +11,7 @@ while (true) {
 }
 _%>
 ---
-date: {{Date:YYYY-MM-DD}}
 assignees: <% assignees %>
+date created: <% tp.file.creation_date("YYYY-MM-DD") %>
+date completed: 
 ---
