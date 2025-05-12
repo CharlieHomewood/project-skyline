@@ -24,16 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Kanban/Cards/test example.md",
+      "timestamp": 1747090720058
+    },
+    {
+      "filepath": "Excalidraw/a note.md",
+      "timestamp": 1747090717988
+    },
+    {
       "filepath": "Kanban/Boards/Task Progress Review.md",
-      "timestamp": 1747090640538
+      "timestamp": 1747090711894
+    },
+    {
+      "filepath": "Write out initial story ideas.md",
+      "timestamp": 1747090684769
     },
     {
       "filepath": "My Dashboard.md",
       "timestamp": 1747090628889
-    },
-    {
-      "filepath": "Templates/meeting.md",
-      "timestamp": 1747090622682
     }
   ],
   "bookmarkedFileStore": [],
