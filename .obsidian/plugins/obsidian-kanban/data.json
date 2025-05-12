@@ -1,5 +1,6 @@
 {
   "new-note-template": "Templates/kanban-card.md",
   "new-note-folder": "Kanban/Cards",
-  "show-checkboxes": true
+  "show-checkboxes": true,
+  "tag-colors": []
 }
