@@ -14,7 +14,7 @@
   "fontWeight": 600,
   "maxResults": 5,
   "showbookmarkedFiles": true,
-  "showRecentFiles": false,
+  "showRecentFiles": true,
   "maxRecentFiles": 5,
   "storeRecentFile": true,
   "showPath": true,
@@ -25,11 +25,19 @@
   "recentFilesStore": [
     {
       "filepath": "My Dashboard.md",
-      "timestamp": 1747135881257
+      "timestamp": 1747136185439
+    },
+    {
+      "filepath": "Kanban/Boards/Task Progress Review.md",
+      "timestamp": 1747136172988
     },
     {
       "filepath": "Templates/meeting.md",
-      "timestamp": 1747135879626
+      "timestamp": 1747136141165
+    },
+    {
+      "filepath": "Templates/kanban-card.md",
+      "timestamp": 1747135944146
     }
   ],
   "bookmarkedFileStore": [],
