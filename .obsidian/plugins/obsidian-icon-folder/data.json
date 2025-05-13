@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLayoutDashboard",
+      "📋",
+      "🗃",
       "SiObsidian",
-      "💡",
-      "LiStamp",
-      "LiTemplaterIcon",
-      "✏"
+      "💡"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,5 +49,7 @@
   "Tutorials/Obsidian": {
     "iconName": "SiObsidian",
     "iconColor": "#7c3aed"
-  }
+  },
+  "Kanban/Cards": "🗃",
+  "Kanban/Boards": "LiLayoutDashboard"
 }
