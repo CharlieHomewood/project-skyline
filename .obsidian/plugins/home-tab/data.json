@@ -1,5 +1,5 @@
 {
-  "logoType": "default",
+  "logoType": "none",
   "logo": {
     "lucideIcon": "",
     "imagePath": "",
@@ -7,7 +7,7 @@
   },
   "logoScale": 1.2,
   "iconColorType": "default",
-  "wordmark": "Obsidian",
+  "wordmark": "",
   "customFont": "interfaceFont",
   "fontSize": "4em",
   "fontColorType": "default",
@@ -25,11 +25,7 @@
   "recentFilesStore": [
     {
       "filepath": "My Dashboard.md",
-      "timestamp": 1747178301631
-    },
-    {
-      "filepath": "Templates/tutorial-note.md",
-      "timestamp": 1747178300057
+      "timestamp": 1747178536522
     }
   ],
   "bookmarkedFileStore": [],
