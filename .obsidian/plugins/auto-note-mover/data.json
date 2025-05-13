@@ -4,8 +4,8 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "Tutorials",
-      "tag": "#tutorial",
+      "folder": "Tutorials/Obsidian",
+      "tag": "#tutorial-obsidian",
       "pattern": ""
     },
     {

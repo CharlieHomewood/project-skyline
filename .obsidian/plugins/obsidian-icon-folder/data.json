@@ -51,5 +51,8 @@
     "iconColor": "#7c3aed"
   },
   "Kanban/Cards": "🗃",
-  "Kanban/Boards": "LiLayoutDashboard"
+  "Kanban/Boards": {
+    "iconName": "LiLayoutDashboard",
+    "iconColor": "#ffffff"
+  }
 }
