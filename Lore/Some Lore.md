@@ -1,6 +1,0 @@
----
-date created: 
-tags:
-  - lore
----
-
