@@ -1,3 +1,5 @@
 ---
-date created:
+date created: 
+tags:
+  - lore
 ---

@@ -1,6 +1,6 @@
 ---
 date created: 
 tags:
-  - tutorial
+  - lore
 ---
 

@@ -25,15 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "Templates/tutorial-note.md",
-      "timestamp": 1747176209319
+      "timestamp": 1747176508167
     },
     {
       "filepath": "Templates/lore-note.md",
-      "timestamp": 1747176208578
+      "timestamp": 1747176506442
     },
     {
-      "filepath": "My Dashboard.md",
-      "timestamp": 1747176178040
+      "filepath": "Lore/Some Lore.md",
+      "timestamp": 1747176505284
+    },
+    {
+      "filepath": "Templates/meeting.md",
+      "timestamp": 1747176305957
+    },
+    {
+      "filepath": "Meetings/2025-05-10.md",
+      "timestamp": 1747176282021
     }
   ],
   "bookmarkedFileStore": [],
