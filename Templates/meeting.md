@@ -1,15 +1,4 @@
 <%*
-let title = tp.date.now("YYYY-MM-DD");
-let existingFile = app.vault.getFiles().find(f => f.path === "Meetings/" + title + ".md");
-
-if (!existingFile) {
-  await tp.file.move("Meetings/" + tp.file.title); 
-  await tp.file.rename(title);
-} else {
-  title = title + "-New"; 
-  await tp.file.rename(title);
-}
-
 let people = ["Bronwen", "Charlie", "Ethan", "Harvey", "Jamie", "Louis", "Mark"];
 const attendees = [];
 while (true) {

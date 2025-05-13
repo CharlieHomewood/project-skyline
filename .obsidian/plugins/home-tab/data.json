@@ -24,12 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Tutorials/Obsidian/Plugin - QuickAdd.md",
+      "timestamp": 1747179782152
+    },
+    {
       "filepath": "Templates/tutorial-note-obsidian.md",
-      "timestamp": 1747179405490
+      "timestamp": 1747179748958
     },
     {
       "filepath": "Templates/meeting.md",
-      "timestamp": 1747179348501
+      "timestamp": 1747179723420
+    },
+    {
+      "filepath": "Meetings/Meetings.md",
+      "timestamp": 1747179679551
     },
     {
       "filepath": "My Dashboard.md",

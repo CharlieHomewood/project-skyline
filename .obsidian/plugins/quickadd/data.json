@@ -13,8 +13,8 @@
           "command": false,
           "templatePath": "Templates/meeting.md",
           "fileNameFormat": {
-            "enabled": false,
-            "format": ""
+            "enabled": true,
+            "format": "{{date}}"
           },
           "folder": {
             "enabled": true,
@@ -49,8 +49,8 @@
               "command": false,
               "templatePath": "Templates/tutorial-note-obsidian.md",
               "fileNameFormat": {
-                "enabled": true,
-                "format": "<% tp.date.now(\"YYYY-MM-DD\") %>"
+                "enabled": false,
+                "format": ""
               },
               "folder": {
                 "enabled": true,
