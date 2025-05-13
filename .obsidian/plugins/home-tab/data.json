@@ -24,24 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Templates/tutorial-note.md",
-      "timestamp": 1747178129653
-    },
-    {
-      "filepath": "Templates/lore-note.md",
-      "timestamp": 1747178038340
-    },
-    {
       "filepath": "My Dashboard.md",
-      "timestamp": 1747178020657
+      "timestamp": 1747178301631
     },
     {
-      "filepath": "Meetings/Meetings.md",
-      "timestamp": 1747178003524
-    },
-    {
-      "filepath": "Templates/kanban-card.md",
-      "timestamp": 1747178002109
+      "filepath": "Templates/tutorial-note.md",
+      "timestamp": 1747178300057
     }
   ],
   "bookmarkedFileStore": [],
