@@ -1,0 +1,10 @@
+```dataview
+TABLE WITHOUT ID
+file.link AS "",
+file.frontmatter.attendees as "Attendees",
+file.frontmatter.summary as "Summary"
+FROM "Meetings"
+WHERE file.name != this.file.name
+SORT file.name desc
+```
+
