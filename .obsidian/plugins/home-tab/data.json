@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Templates/tutorial-note.md",
-      "timestamp": 1747178858654
+      "filepath": "Templates/tutorial-note-obsidian.md",
+      "timestamp": 1747179405490
+    },
+    {
+      "filepath": "Templates/meeting.md",
+      "timestamp": 1747179348501
     },
     {
       "filepath": "My Dashboard.md",

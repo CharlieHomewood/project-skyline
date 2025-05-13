@@ -1,9 +1,86 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "67875bf2-3f66-4fbc-a0db-aeb14f150ece",
+      "name": "📋 Notes",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "fb206aa8-7a83-4677-96a2-2cf13e25985a",
+          "name": "🤝 Meeting",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/meeting.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Meetings"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Nothing",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "2a6a27d4-0eea-4a1a-b055-307b202ef6a5",
+          "name": "💡 Tutorial",
+          "type": "Multi",
+          "command": false,
+          "choices": [
+            {
+              "id": "f38aee10-50c9-453e-98e2-12d719cca556",
+              "name": "🟣 Obsidian",
+              "type": "Template",
+              "command": false,
+              "templatePath": "Templates/tutorial-note-obsidian.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "<% tp.date.now(\"YYYY-MM-DD\") %>"
+              },
+              "folder": {
+                "enabled": true,
+                "folders": [
+                  "Tutorials/Obsidian"
+                ],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFileInNewTab": {
+                "enabled": false,
+                "direction": "vertical",
+                "focus": true
+              },
+              "openFile": true,
+              "openFileInMode": "default",
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "Templates",
   "announceUpdates": true,
   "version": "1.13.2",
   "disableOnlineFeatures": true,
