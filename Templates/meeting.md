@@ -42,6 +42,7 @@ for (let i = 0; i < attendees.length; i++) {
 	tR += " " + "-" + " " + attendees[i] + "\n";
 }
 -%>
+date: <% tp.file.creation_date("YYYY-MM-DD") %>
 ---
 
 ◀️ <% previousLink %>
