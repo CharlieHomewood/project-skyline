@@ -2,11 +2,15 @@
   "settings": {
     "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
-    "fontSize": 16,
+    "fontSize": 26,
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🤝"
+      "💡",
+      "LiStamp",
+      "LiTemplaterIcon",
+      "✏",
+      "LiExcalidrawIcon"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,5 +34,16 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Meetings": "🤝"
+  "Meetings": "🤝",
+  "Lore": "📚",
+  "Kanban": {
+    "iconName": "LiKanban",
+    "iconColor": "#ffffff"
+  },
+  "Excalidraw": "✏",
+  "Templates": {
+    "iconName": "LiStamp",
+    "iconColor": "#ffffff"
+  },
+  "Tutorials": "💡"
 }
