@@ -21,19 +21,6 @@ while (true) {
   people = people.filter(person => person !== selectedPerson);
 }
 attendees.sort();
-const folder = "Meetings"; 
-const currentFile = tp.file.title; 
-
-const files = app.vault.getFiles()
-    .filter(f => f.path.startsWith(folder + "/") && /^\d{4}-\d{2}-\d{2}\.md$/.test(f.name))
-    .sort((a, b) => a.name.localeCompare(b.name));
-
-const fileNames = files.map(f => f.name.replace(".md", ""));
-
-const index = fileNames.indexOf(title);
-
-let previousLink = index > 0 ? `[[Meetings/${fileNames[index - 1]}|Previous Meeting]]` : "No previous meeting";
-let nextLink = index >= 0 && index < fileNames.length - 1 ? `[[Meetings/${fileNames[index + 1]}|Next Meeting]]` : "No next meeting";
 _%>
 ---
 attendees:
@@ -45,9 +32,28 @@ for (let i = 0; i < attendees.length; i++) {
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
 ---
 
-◀️ <% previousLink %>
+```dataviewjs
+const folder = "Meetings";
+let pages = dv.pages(`"${folder}"`)
+    .where(p => p.file.name.match(/^\d{4}-\d{2}-\d{2}$/))
+    .sort(p => p.file.name);
 
-▶️ <% nextLink %>
+let currentIndex = pages.findIndex(p => p.file.name === dv.current().file.name);
+
+if (currentIndex > 0) {
+  let prev = pages[currentIndex - 1];
+  dv.paragraph(`◀️ [[${prev.file.path}|Previous Meeting]]`);
+} else {
+  dv.paragraph("◀️ No previous meeting");
+}
+
+if (currentIndex >= 0 && currentIndex < pages.length - 1) {
+  let next = pages[currentIndex + 1];
+  dv.paragraph(`▶️ [[${next.file.path}|Next Meeting]]`);
+} else {
+  dv.paragraph("▶️ No next meeting");
+}
+```
 
 > [!summary] 
 >  - 
