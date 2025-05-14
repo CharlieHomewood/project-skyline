@@ -6,15 +6,18 @@ aliases:
 
 ## Definition
 
-The inability to perceive colours
+Rare genetic disorder which results in the inability to perceive some or all colours
 
 ## Symptoms
 
-1. Colour blindness (Monochromacy)
-2. Poor clarity of vision (uncorrectable with lenses)
-3. Sensitivity to bright light
-4. Shaking eyes ([[Nystagmus]])
-	1. High frequency, low amplitude horizontal shaking
+All symptoms develop from birth
+
+ - Colour blindness (Monochromacy)
+ - Poor visual acuity (unclear vision) 
+	 - Uncorrectable with glasses
+ - Sensitivity to bright light
+ - Shaking eyes ([[Nystagmus]]) 
+	 - High frequency, low amplitude horizontal shaking
 
 ## Genetic Causes
 
