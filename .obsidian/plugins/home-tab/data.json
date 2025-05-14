@@ -25,23 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "Tutorials/Obsidian/Plugin - QuickAdd.md",
-      "timestamp": 1747179782152
+      "timestamp": 1747180832931
+    },
+    {
+      "filepath": "Meetings/2025-05-14.md",
+      "timestamp": 1747180776084
+    },
+    {
+      "filepath": "My Dashboard.md",
+      "timestamp": 1747180550356
     },
     {
       "filepath": "Templates/tutorial-note-obsidian.md",
-      "timestamp": 1747179748958
+      "timestamp": 1747180549344
     },
     {
       "filepath": "Templates/meeting.md",
       "timestamp": 1747179723420
-    },
-    {
-      "filepath": "Meetings/Meetings.md",
-      "timestamp": 1747179679551
-    },
-    {
-      "filepath": "My Dashboard.md",
-      "timestamp": 1747178790771
     }
   ],
   "bookmarkedFileStore": [],

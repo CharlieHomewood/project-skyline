@@ -34,7 +34,7 @@
           "openFile": true,
           "openFileInMode": "default",
           "fileExistsMode": "Nothing",
-          "setFileExistsBehavior": false
+          "setFileExistsBehavior": true
         },
         {
           "id": "2a6a27d4-0eea-4a1a-b055-307b202ef6a5",
@@ -69,7 +69,7 @@
               },
               "openFile": true,
               "openFileInMode": "default",
-              "fileExistsMode": "Increment the file name",
+              "fileExistsMode": "Append to the top of the file",
               "setFileExistsBehavior": false
             }
           ]
