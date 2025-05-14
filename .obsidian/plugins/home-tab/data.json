@@ -13,8 +13,8 @@
   "fontColorType": "default",
   "fontWeight": 600,
   "maxResults": 5,
-  "showbookmarkedFiles": true,
-  "showRecentFiles": true,
+  "showbookmarkedFiles": false,
+  "showRecentFiles": false,
   "maxRecentFiles": 5,
   "storeRecentFile": true,
   "showPath": true,
@@ -25,7 +25,7 @@
   "recentFilesStore": [
     {
       "filepath": "My Dashboard.md",
-      "timestamp": 1747230183941
+      "timestamp": 1747230208483
     }
   ],
   "bookmarkedFileStore": [],
