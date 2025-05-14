@@ -2,6 +2,7 @@
 aliases:
   - QuickAdd
 date created: 2025-05-14
+docs-url: https://quickadd.obsidian.guide/docs/
 tags:
   - tutorial-obsidian
 ---
@@ -20,7 +21,8 @@ QuickAdd is a [[Community Plugins|community plugin]] which allows you to automat
 
 Templates will create a new note with a specified template. 
 
-For example, we have an option for a `Meeting` template. When selected, this will create a new meeting note for the current day
+> [!example] An example...
+> We have an option for a `Meeting` template. When this is selected, this will create a new meeting note for the current day (assuming one does not already exist).
 
 ### Capture
 

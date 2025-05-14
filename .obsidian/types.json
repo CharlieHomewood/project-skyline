@@ -51,6 +51,7 @@
     "TQ_show_urgency": "checkbox",
     "date due": "date",
     "attendees": "multitext",
-    "name": "text"
+    "name": "text",
+    "documentation-url": "text"
   }
 }
