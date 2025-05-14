@@ -7,9 +7,9 @@ Genes decide eye colour and eye colour shows what kind of magic a person can use
 | <font color="#de7802">Orange</font>                              | Champion               | No lactic acid buildup and faster reflexes                                                 | 5%           |
 | <font color="#ffff00">Yellow</font>                              | Genius                 | Perfect recall and fast calculations                                                       | 5%           |
 | <font color="#00b050">Green</font>                               | Spider                 | Elastic threads that can be sticky and can elongate/retract                                | 6%           |
-| <font color="#00b0f0">Cyan                             </font>   |                        | Touch material to make it see through                                                      | 3%           |
+| <font color="#00b0f0">Cyan                             </font>   | Observer/Witness?      | Touch material to make it see through                                                      | 3%           |
 | <font color="#7030a0">Indigo                             </font> | Kinetics               | Push objects on vector                                                                     | 6%           |
-| <font color="#8064a2">Violet                             </font> |                        | Illusions                                                                                  | 0.5%         |
+| <font color="#8064a2">Violet                             </font> | Illusionist/Charmer?   | Illusions                                                                                  | 0.5%         |
 | Black⚫                                                           | Void                   | No power                                                                                   | 67.5%        |
 | White ⚪                                                          | Fragment of Brilliance | Use all powers, eyes change per colour                                                     | Mythological |
 | Heterochromia                                                    |                        | chance of each colour is the same percentage as the regular chance so most will get black. |              |
