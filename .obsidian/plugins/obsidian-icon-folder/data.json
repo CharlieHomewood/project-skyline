@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPaperclip",
+      "💭",
       "LiLayoutDashboard",
       "📋",
-      "🗃",
-      "SiObsidian",
-      "💡"
+      "🗃"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,6 +35,7 @@
     "useInternalPlugins": false
   },
   "Meetings": "🤝",
+  "Lore": "📚",
   "Kanban": {
     "iconName": "LiKanban",
     "iconColor": "#ffffff"
@@ -53,5 +54,10 @@
     "iconName": "LiLayoutDashboard",
     "iconColor": "#ffffff"
   },
-  "Kanban/Tasks": "🗃"
+  "Kanban/Tasks": "🗃",
+  "Game Ideas": "💭",
+  "Attachments": {
+    "iconName": "LiPaperclip",
+    "iconColor": "#ffffff"
+  }
 }
