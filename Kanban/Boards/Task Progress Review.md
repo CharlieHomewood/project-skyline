@@ -18,6 +18,7 @@ kanban-plugin: board
 - [ ] [[Begin to learn hollow knight camera mechanics]]
 - [ ] [[Begin to learn Unreal]]
 - [ ] [[Set up Obsidian vault]]
+- [ ] [[Migrate Google Drive files to Obsidian vault]]
 
 
 ## Peer-Review
