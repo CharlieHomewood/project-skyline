@@ -1,4 +1,7 @@
 
+## Definition
+
+Shaking of eyes
 
 
 ## Video Example

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Rod monochromacy
+  - ACHM
 ---
 
 ## Definition
@@ -13,6 +14,7 @@ The inability to perceive colours
 2. Poor clarity of vision (uncorrectable with lenses)
 3. Sensitivity to bright light
 4. Shaking eyes ([[Nystagmus]])
+	1. High frequency, low amplitude horizontal shaking
 
 ## Genetic Causes
 
