@@ -17,4 +17,6 @@ Genes decide eye colour and eye colour shows what kind of magic a person can use
 | Three colours                                                    |                        |                                                                                            | 0.01%        |
 | Acromatopsia                                                     |                        | inability to see colour. Allows them to see through violet illusions                       |              |
 
-The magic system is based around radiation. The people with magic emit a specific radiation that causes their effect. External effects created through this radiation also emit their own which is detectable with a machine. There is a chemical called Chylino in the rain that interferes with and breaks down all magical radiation. There are sprinklers in public places that activate on ability usage if it is not allowed in that area.
+The magic system is based around radiation. The people with magic emit a specific radiation that causes their effect. External effects created through this radiation also emit their own which is detectable with a machine. There is a chemical called Chylino in the rain that interferes with and breaks down all magical radiation.
+Power dampners exits that cons
+There are sprinklers in public places that activate on ability usage if it is not allowed in that area.
