@@ -29,7 +29,7 @@ Delusian Calendar:
 
 1st of Amarah, [^1]5th Dij, Yellow Age
 
-6 days per week, 4 weeks per month, 12 months per year, 6 years is called a sequence, 1 sequence per age
+6 days per week, 4 weeks per month, 12 months per year, 6 years is called a sequence, 6 sequences per age
 
 Days:
 1. Omundsday
@@ -70,4 +70,4 @@ Ages:
 6. Indigo
 7. Violet
 
-[^1]: 5th sequence
+[^1]: 5th sequence of that age
