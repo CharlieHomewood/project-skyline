@@ -11,7 +11,7 @@ Drugs in the world:
 	- derived from chylino, black powder that is mixed with water and rubbed onto eyelids
 	- causes euphoria and semi-consciousness
 	- magic users sometimes lose control of their power whilst in that semi-conscious state
-	- 
+- 
 
 Other places in world:
 - Nettersende
