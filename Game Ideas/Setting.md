@@ -31,7 +31,6 @@ Delusian Calendar:
 01/01/31/03
 01/01/Dij5/yellow
 
-
 6 days per week, 4 weeks per month, 12 months per year, 6 years is called a sequence, 6 sequences per age
 
 Days:
