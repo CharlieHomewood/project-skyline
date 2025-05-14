@@ -50,9 +50,9 @@
     "iconName": "SiObsidian",
     "iconColor": "#7c3aed"
   },
-  "Kanban/Cards": "🗃",
   "Kanban/Boards": {
     "iconName": "LiLayoutDashboard",
     "iconColor": "#ffffff"
-  }
+  },
+  "Kanban/Tasks": "🗃"
 }

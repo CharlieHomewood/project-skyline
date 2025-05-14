@@ -6,6 +6,7 @@ docs-url: https://quickadd.obsidian.guide/docs/
 tags:
   - tutorial-obsidian
 ---
+
 > [!question] How to set-up QuickAdd hotkey
 > 1. Go to `Settings > Options > Hotkeys`
 > 2. Search `quickadd`
