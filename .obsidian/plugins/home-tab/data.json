@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "My Dashboard.md",
-      "timestamp": 1747224948553
+      "filepath": "Tutorials/Obsidian/Markdown Syntax.md",
+      "timestamp": 1747225142221
     },
     {
       "filepath": "Tutorials/Obsidian/Plugin - QuickAdd.md",
-      "timestamp": 1747224946744
+      "timestamp": 1747225059632
+    },
+    {
+      "filepath": "My Dashboard.md",
+      "timestamp": 1747224948553
     }
   ],
   "bookmarkedFileStore": [],
