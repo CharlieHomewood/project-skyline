@@ -2,7 +2,6 @@
 aliases:
   - QuickAdd
 date created: 2025-05-14
-docs-url: https://quickadd.obsidian.guide/docs/
 tags:
   - tutorial-obsidian
 ---
@@ -52,3 +51,7 @@ This choice simply functions as a folder to store other choices inside of, makin
 > We have a multi choice called `📋 Create a New Note`.
 > 
 > This simply stores different categories of note templates to choose from in the QuickAdd menu.
+
+## QuickAdd Documentation
+
+https://quickadd.obsidian.guide/docs/
