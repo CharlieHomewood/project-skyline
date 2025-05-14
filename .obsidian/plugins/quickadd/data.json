@@ -2,7 +2,7 @@
   "choices": [
     {
       "id": "67875bf2-3f66-4fbc-a0db-aeb14f150ece",
-      "name": "📋 Notes",
+      "name": "📋 Create a New Note...",
       "type": "Multi",
       "command": false,
       "choices": [
@@ -74,11 +74,12 @@
             }
           ]
         }
-      ]
+      ],
+      "collapsed": false
     },
     {
       "id": "4850315c-f432-418d-898b-6640f3c0c600",
-      "name": "Add Task to Backlog",
+      "name": "📒 Add Task to Backlog",
       "type": "Capture",
       "command": false,
       "appendLink": false,
