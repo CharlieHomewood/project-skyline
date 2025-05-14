@@ -6,7 +6,7 @@ Currency: 1 Dreni = £1, 1 Hack = 50p
 
 Optician is a scientist that studies all things magic
 
-Old religion in the world worships the sun and the children of the sun "Fragments of Brilliance" that came and brought magic
+Old religion in the world worships the sun and the children of the sun "Fragments of Brilliance" that came to the planet "Met" and brought magic
 
 Drugs in the world:
 - Soot
