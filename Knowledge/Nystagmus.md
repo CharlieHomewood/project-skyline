@@ -3,6 +3,13 @@
 
 Shaking of eyes
 
+## Types
+
+ - Jerk nystagmus
+	 - fast and slow phases
+ - Pendular nystagmus
+	 - 
+
 
 ## Video Example
 
