@@ -22,6 +22,8 @@ completed: false
 date created: <% tp.file.creation_date("YYYY-MM-DD") %>
 date completed:
 date due: 
+tags: 
+ - task
 ---
 
 description::<br>
