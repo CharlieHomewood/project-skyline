@@ -42,8 +42,8 @@ Days:
 6. Fajara
 
 Months:
-1. Amarah
-2. .
+1. Hessta
+2. Heri
 3. .
 4. .
 5. .
