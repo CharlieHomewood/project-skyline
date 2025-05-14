@@ -28,6 +28,8 @@ Other places in world:
 Delusian Calendar:
 
 1st of Amarah, [^1]5th Dij, Yellow Age
+01/01/25/3
+
 
 6 days per week, 4 weeks per month, 12 months per year, 6 years is called a sequence, 6 sequences per age
 
