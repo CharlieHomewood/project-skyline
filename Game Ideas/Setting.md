@@ -26,6 +26,8 @@ Other places in world:
 
 
 Delusian Calendar:
+
+1st of Amarah, 
 6 days per week, 4 weeks per month, 12 months per year, 6 years is called a sequence, 1 sequence per age
 
 Days:
