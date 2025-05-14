@@ -27,7 +27,7 @@ Other places in world:
 
 Delusian Calendar:
 
-1st of Amarah, [^1]5th Dij, Yellow Age
+1st of Hessta, [^1]5th Dij, Yellow Age
 01/01/31/03
 01/01/Dij5/yellow
 
@@ -44,16 +44,16 @@ Days:
 Months:
 1. Hessta
 2. Heri
-3. .
-4. .
-5. .
-6. Fajaresh
-7. .
-8. .
-9. .
-10. .
-11. .
-12. .
+3. Passo
+4. Damis
+5. Athos
+6. Appos
+7. Arama
+8. Arsim
+9. Aprena
+10. Heathras
+11. Hames
+12. Dionia
 
 Years:
 1. Dij
