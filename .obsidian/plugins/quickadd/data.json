@@ -82,7 +82,7 @@
       "type": "Capture",
       "command": false,
       "appendLink": false,
-      "captureTo": "",
+      "captureTo": "Kanban/Boards/Task Progress Review.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": false,
@@ -94,15 +94,15 @@
         "format": ""
       },
       "insertAfter": {
-        "enabled": false,
-        "after": "",
+        "enabled": true,
+        "after": "## Backlog",
         "insertAtEnd": false,
         "considerSubsections": false,
         "createIfNotFound": false,
         "createIfNotFoundLocation": "top"
       },
       "prepend": false,
-      "task": false,
+      "task": true,
       "openFileInNewTab": {
         "enabled": false,
         "direction": "vertical",
