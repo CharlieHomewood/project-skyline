@@ -11,4 +11,5 @@ The inability to perceive colours
 
 1. Colour blindness - Monochromacy
 2. Poor clarity of vision (uncorrectable)
-3. 
+3. Sensitivity to bright light
+4. Shaking eyes (nystagmus)
