@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Untitled.md",
-      "timestamp": 1747230059549
+      "filepath": "My Dashboard.md",
+      "timestamp": 1747230074281
+    },
+    {
+      "filepath": "Tutorials/Obsidian/Plugin - QuickAdd.md",
+      "timestamp": 1747230073108
     },
     {
       "filepath": "Kanban/Boards/Task Progress Review.md",
