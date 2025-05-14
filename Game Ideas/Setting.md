@@ -6,6 +6,10 @@ Currency: 1 Dreni = £1, 1 Hack = 50p
 
 Optician is a scientist that studies all things magic
 
+Drugs in the world:
+- Soot
+	- derived from chylino
+
 Other places in world:
 - Nettersende
 	- Arabic culture
