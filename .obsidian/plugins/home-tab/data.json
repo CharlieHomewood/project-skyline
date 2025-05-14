@@ -25,15 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "My Dashboard.md",
-      "timestamp": 1747230074281
+      "timestamp": 1747230147306
+    },
+    {
+      "filepath": "Kanban/Boards/Task Progress Review.md",
+      "timestamp": 1747230135495
     },
     {
       "filepath": "Tutorials/Obsidian/Plugin - QuickAdd.md",
       "timestamp": 1747230073108
-    },
-    {
-      "filepath": "Kanban/Boards/Task Progress Review.md",
-      "timestamp": 1747229269695
     }
   ],
   "bookmarkedFileStore": [],
