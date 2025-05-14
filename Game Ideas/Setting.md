@@ -28,3 +28,7 @@ Other places in world:
 Delusian Calendar:
 6 days per week, 4 weeks per month, 12 months per year, 6 years is called a sequence, 1 sequence per age
 
+Days:
+1. Omundsday
+2. Mikalday
+3. 
