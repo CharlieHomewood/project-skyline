@@ -39,19 +39,19 @@ Days:
 3. Mahaday
 4. Illumday
 5. Niliday
-6. Fajara
+6. Shashday
 
 Months:
 1. Hessta
-2. Heri
+2. Arsim
 3. Passo
 4. Damis
 5. Athos
-6. Appos
+6. Heathras
 7. Arama
-8. Arsim
+8. Heri
 9. Aprena
-10. Heathras
+10. Appos
 11. Hames
 12. Dionia
 
