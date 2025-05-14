@@ -10,7 +10,7 @@ Rare genetic disorder which results in the inability to perceive some or all col
 
 ## Symptoms
 
-All symptoms develop from birth
+All symptoms develop from birth. Not all people with ACHM have all of these symptoms.
 
  - Colour blindness (Monochromacy)
  - Poor visual acuity (unclear vision) 
@@ -22,6 +22,7 @@ All symptoms develop from birth
 	 - **Not fear of bright light**
  - Shaking eyes ([[Nystagmus]]) 
 	 - High frequency, low amplitude horizontal shaking
+ - Small central scotomas (blind spot)
 
 ## Genetic Causes
 
