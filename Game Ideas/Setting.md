@@ -38,4 +38,23 @@ Days:
 
 Months:
 1. Amarah
-2. 
+2. .
+3. .
+4. .
+5. .
+6. Fajaresh
+7. .
+8. .
+9. .
+10. .
+11. .
+12. .
+
+Years:
+1. Dij
+2. Mirf
+3. .
+4. .
+5. .
+6. Faja Ma
+7. 
