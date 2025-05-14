@@ -8,7 +8,7 @@ Optician is a scientist that studies all things magic
 
 Drugs in the world:
 - Soot
-	- derived from chylino
+	- derived from chylino, black powder that is
 
 Other places in world:
 - Nettersende
