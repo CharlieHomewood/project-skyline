@@ -4,4 +4,9 @@ tags:
   - tutorial-obsidian
 ---
 
-## 
+## Headings
+
+| Key | Appearance  |
+| --- | ----------- |
+| \#  | # Heading 1 |
+
