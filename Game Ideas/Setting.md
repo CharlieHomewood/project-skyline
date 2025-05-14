@@ -5,3 +5,9 @@ Almost steampunk/ teslapunk but toned down. Certain tech is reliant of magic pow
 Currency: 1 Dreni = £1, 1 Hack = 50p
 
 Optician is a scientist that studies all things magic
+
+Other places in world:
+- Nettersende
+	- Arabic culture
+- Mesandir
+	- Greek culture
