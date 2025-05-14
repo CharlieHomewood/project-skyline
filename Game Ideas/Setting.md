@@ -31,4 +31,11 @@ Delusian Calendar:
 Days:
 1. Omundsday
 2. Mikalday
-3. 
+3. Mahaday
+4. Illumday
+5. Niliday
+6. Fajara
+
+Months:
+1. Amarah
+2. 
