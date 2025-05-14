@@ -35,7 +35,7 @@ Captures allow you to quickly add content to a note without actually opening tha
 > 
 > Selecting this choice opens a text box where you can name a new task. 
 > 
-> This will then automatically be added to the `Backlog` column in the `Task Progress Review` Kanban board - no need to open it and add the task manually!
+> Upon clicking `ok`, this will automatically be added to the `Backlog` column in the `Task Progress Review` Kanban board - no need to open it and add the task manually!
 
 ### Macro
 

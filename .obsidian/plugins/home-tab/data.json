@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Kanban/Tasks/Set up Obsidian vault.md",
-      "timestamp": 1747228082308
-    },
-    {
       "filepath": "Kanban/Boards/Task Progress Review.md",
-      "timestamp": 1747228065957
+      "timestamp": 1747228190615
     },
     {
-      "filepath": "Kanban/Tasks/Write out initial story ideas.md",
-      "timestamp": 1747228058226
+      "filepath": "Tutorials/Obsidian/Plugin - QuickAdd.md",
+      "timestamp": 1747228121960
+    },
+    {
+      "filepath": "Kanban/Tasks/Set up Obsidian vault.md",
+      "timestamp": 1747228118690
     },
     {
       "filepath": "Meetings/2025-05-10.md",
-      "timestamp": 1747228054681
+      "timestamp": 1747228108407
     },
     {
-      "filepath": "My Dashboard.md",
-      "timestamp": 1747228049936
+      "filepath": "Meetings/Meetings.md",
+      "timestamp": 1747228096819
     }
   ],
   "bookmarkedFileStore": [],
