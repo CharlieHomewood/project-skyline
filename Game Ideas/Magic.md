@@ -2,6 +2,8 @@ Colour based magic
 
 Genes decide eye colour and eye colour shows what kind of magic a person can use
 
+## Iris Colour Summary Table
+
 | Iris Colour                                                      | Nickname               | Power                                                                                      | Population   |
 | ---------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------ | ------------ |
 | <font color="#d83931">Red                             </font>    | Crafter                | Conjure light structures                                                                   | 7%           |
