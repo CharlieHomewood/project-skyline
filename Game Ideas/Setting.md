@@ -25,7 +25,7 @@ Other places in world:
 	- Greek culture
 
 
-Delusian Calendar:
+Delusian Calendar: (used in my book, might need changing for the isolated culture of the cliffs)
 
 1st of Hessta, [^1]5th Dij, Yellow Age
 01/01/31/03
@@ -36,9 +36,9 @@ Delusian Calendar:
 Days:
 1. Omundsday
 2. Mikalday
-3. Mahaday
+3. Flikirday
 4. Illumday
-5. Niliday
+5. Usaday
 6. Shashday
 
 Months:
