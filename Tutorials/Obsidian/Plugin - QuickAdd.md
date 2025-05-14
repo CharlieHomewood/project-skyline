@@ -26,7 +26,10 @@ Templates will create a new note with a specified template.
 
 ### Capture
 
+Captures allow you to quickly add content to a note without actually opening that note and writing anything down/clicking anything on the note.
 
+> [!example] An example...
+> We have an `Add Task to Backlog` capture. 
 
 ### Macro
 
