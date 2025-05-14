@@ -16,8 +16,6 @@ All symptoms develop from birth. Not all people with ACHM have all of these symp
  - Poor visual acuity (unclear vision) 
 	 - Uncorrectable with glasses
  - [[Eccentric fixation]]
-	 - Having a point on the retina other than the fovea which is the point of focus 
-	 - Typically, the fovea is the point of focus. It is situated in the centre of the retina and it is where vision is clearest
  - Sensitivity to bright light ([[Photophobia]])
 	 - **Not fear of bright light**
  - Shaking eyes ([[Nystagmus]]) 
