@@ -20,6 +20,6 @@ Genes decide eye colour and eye colour shows what kind of magic a person can use
 
 The magic system is based around radiation. The people with magic emit a specific radiation that causes their effect. External effects created through this radiation also emit their own which is detectable with a machine. 
 
-There is a chemical called Chylino in the rain that emits a C-Wave radiation interferes with and breaks down all magical radiation.
+There is a chemical called Chylino in the rain that emits a C-Wave radiation  interferes with and breaks down all magical radiation. 
 
 Power dampeners exits that constantly trigger Chylino to emit C-Waves and prevent all external magic use. In places where magic is required/ allowed, they instead have sprinklers to block powers only when activated.
