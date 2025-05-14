@@ -28,7 +28,7 @@ Other places in world:
 Delusian Calendar:
 
 1st of Amarah, [^1]5th Dij, Yellow Age
-01/01/25/03
+01/01/31/03
 01/01/Dij5/yellow
 
 
