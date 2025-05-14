@@ -1,12 +1,11 @@
 ---
 assignees:
- - Louis
-completed: false
+  - Louis
 date created: 2025-05-14
-date completed:
+date completed: 
 date due: 
 tags:
- - task
+  - task
 ---
 
 description::<br>

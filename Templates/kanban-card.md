@@ -18,7 +18,6 @@ for (let i = 0; i < assignees.length; i++) {
 	tR += " " + "-" + " " + assignees[i] + "\n";
 }
 -%>
-completed: false
 date created: <% tp.file.creation_date("YYYY-MM-DD") %>
 date completed:
 date due: 
