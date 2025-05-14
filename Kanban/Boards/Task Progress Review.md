@@ -11,6 +11,7 @@ kanban-plugin: board
 - [ ] Make art style guide
 - [ ] Start asset creation
 - [ ] Come up with ideas/opinions on the ideas for story/ character stuff
+- [ ] Decide on Game Engine
 
 
 ## In-Progress (15)
