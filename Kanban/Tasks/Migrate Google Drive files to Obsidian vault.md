@@ -9,12 +9,12 @@ tags:
  - task
 ---
 
-description::<br>
+description::<br>We currently have some files in our Google Drive that should be moved over to this vault.
 
 ## Sub-tasks
 
- - [ ] 
- - [ ] 
+ - [x] Migrate Cliff City sketch ✅ 2025-05-14
+ - [x] Migrate `Game Ideas` ✅ 2025-05-14
  - [ ] 
 
 ## Relevant Notes
