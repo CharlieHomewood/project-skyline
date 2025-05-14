@@ -19,6 +19,7 @@ kanban-plugin: board
 ## In-Progress (15)
 
 - [ ] hello
+- [ ] hello hello
 
 
 ## Peer-Review (15)
