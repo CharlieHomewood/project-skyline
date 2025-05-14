@@ -10,5 +10,5 @@ Indigo for ranged attack/requirement for double jump?
 
 Cyan for lockpicking/unlocking new areas?
 
-Violet for taunt/distraction/beserk?
+Violet for taunt/distraction/berserk?
 
