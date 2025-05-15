@@ -1,4 +1,4 @@
-Hong kong inspired
+[[Culture of Hong Kong|Hong kong inspired]]
  - High density residential areas
 
 ![|500](https://i.imgur.com/J0ZrXNS.png)
