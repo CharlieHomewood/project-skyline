@@ -22,4 +22,3 @@ description::<br> Since the Obsidian vault is not quite real-time syncing (it sy
 
 ## Relevant Notes
 
-![[https://www.whiteboard.team/app/board/FJdC0u42]]
