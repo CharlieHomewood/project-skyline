@@ -1,10 +1,9 @@
 ---
 assignees:
   - Harvey
-  - Louis
-date created: 2025-05-13
+date created: 2025-05-15
 date completed: 
-date due: ""
+date due: 
 tags:
   - task
 ---
@@ -13,7 +12,7 @@ description::<br>
 
 ## Sub-tasks
 
- - [x] Louis' Notes ✅ 2025-05-14
+ - [ ] 
  - [ ] 
  - [ ] 
 
