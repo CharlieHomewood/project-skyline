@@ -14,7 +14,6 @@ kanban-plugin: board
 - [ ] Come up with ideas/opinions on the ideas for story/ character stuff
 - [ ] Decide on game engine
 - [ ] Decide on how to define tasks
-- [ ] [[Consider a real-time collaboration tool for sketches (e.g. Miro)]]
 
 
 ## In-Progress (15)
@@ -23,6 +22,7 @@ kanban-plugin: board
 - [ ] [[Begin to learn Unreal]]
 - [ ] [[Migrate Google Drive files to Obsidian vault]]
 - [ ] [[Set up Obsidian vault]]
+- [ ] [[Consider a real-time collaboration tool for sketches (e.g. Miro)]]
 
 
 ## Peer-Review

@@ -16,7 +16,7 @@ description::<br> Since the Obsidian vault is not quite real-time syncing (it sy
 
 ## Sub-tasks
 
- - [ ] 
+ - [ ] Miro?
  - [ ] 
  - [ ] 
 
