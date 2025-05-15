@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🖌",
       "🧠",
       "LiPaperclip",
       "💭",
-      "LiLayoutDashboard",
-      "📋"
+      "LiLayoutDashboard"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -60,5 +60,6 @@
     "iconName": "LiPaperclip",
     "iconColor": "#ffffff"
   },
-  "Knowledge": "🧠"
+  "Knowledge": "🧠",
+  "Canvases": "🖌"
 }
