@@ -2,11 +2,30 @@
 
 ## Architecture
 
+### Pang uk
+
+
+
 ### Walled villages
 
-Hong Kong has many walled villages - parts of
+Hong Kong has many walled villages, mostly located in the [[New Territories]]. These were originally constructed to protect from pirate incursions. Most are now partly or fully deconstructed.
 
-These were originally constructed to protect from pirate incursions. 
+#### Examples
+
+##### Fanling Ching Wai
+
+Village pond inside walls
+![|500](https://i.imgur.com/YKPRKyF.png)
+
+##### Fui Sha Wai
+
+Entrance gate:
+![|500](https://i.imgur.com/TuLSYHv.png)
+
+##### Nam Pin Wai
+
+Entrance Gate:
+![|500](https://i.imgur.com/lytmF2r.png)
 
 ## Demographics
 
@@ -14,7 +33,11 @@ These were originally constructed to protect from pirate incursions.
 
 ## Geography
 
+### Areas of Hong Kong
 
+ - [[Hong Kong Island]]
+ - [[Kowloon]]
+ - [[New Territories]]
 
 ## Language
 
