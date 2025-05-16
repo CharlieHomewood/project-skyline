@@ -2,7 +2,23 @@ Life hanging off a cliff. Very tall sheer mountain spire. Monsters live in caves
 
 Almost steampunk/ teslapunk but toned down. Certain tech is reliant of magic powers
 
-Currency: 1 Dreni = £1, 1 Hack = 50p
 
-Optician is a scientist that studies all things magic
-
+```folder-overview
+id: 47266e21-55db-46f3-9a77-24b7ab36bfde
+folderPath: ""
+title: "{{folderName}} overview"
+showTitle: false
+depth: 3
+style: list
+includeTypes:
+  - folder
+  - markdown
+disableFileTag: false
+sortBy: name
+sortByAsc: true
+showEmptyFolders: false
+onlyIncludeSubfolders: false
+storeFolderCondition: true
+showFolderNotes: false
+disableCollapseIcon: true
+```
