@@ -2,9 +2,24 @@
 
 ## Architecture
 
+### Lingnan
+
+#### Examples
+
+![|500](https://i.imgur.com/ZHbfP0u.jpeg)
+
+![|500](https://i.imgur.com/rTD5tqB.jpeg)
+
 ### Pang uk
 
+Translates to "shack house". A ***Pang uk*** is a type of stilt house found in Hong Kong. 
 
+#### Examples
+
+##### Pang uk in [[Tai O]]
+![|500](https://i.imgur.com/dBLeXGg.jpeg)
+
+![](https://i.imgur.com/OPMAl8O.jpeg)
 
 ### Walled villages
 
