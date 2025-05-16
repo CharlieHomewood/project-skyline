@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] [[Learn Unreal 5 Procedural Generation , Nanite Texturing & Lumin 1]]
 - [ ] [[Write out initial story ideas]]
 - [ ] [[Set up GitHub repo for game]]
 - [ ] [[Make art style guide]]
