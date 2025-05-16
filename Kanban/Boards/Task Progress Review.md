@@ -11,7 +11,7 @@ kanban-plugin: board
 - [ ] [[Make art style guide]]
 - [ ] [[Start asset creation]]
 - [ ] [[Develop understanding of how real-world human iris colour is genetically determined]]
-- [ ] Come up with ideas/opinions on the ideas for story/ character stuff
+- [ ] [[Come up with ideas opinions on the ideas for story character stuff]]
 - [ ] Decide on game engine
 - [ ] Decide on how to define tasks
 
@@ -24,6 +24,7 @@ kanban-plugin: board
 - [ ] [[Migrate Google Drive files to Obsidian vault]]
 - [ ] [[Set up Obsidian vault]]
 - [ ] [[Consider a real-time collaboration tool for sketches (e.g. Miro)]]
+- [ ] [[Level Areas Aesthetics]]
 
 
 ## Peer-Review
