@@ -1,21 +1,9 @@
 
-
 ## Architecture
 
-### Lingnan architecture
+### [[Lingnan architecture]]
 
-#### Wok yi uk 鑊耳屋
-
-Translates to "house with wok ears".
-
-#### Oyster shell house
-
-#### Examples
-
-![|500](https://i.imgur.com/ZHbfP0u.jpeg)
-
-![|500](https://i.imgur.com/rTD5tqB.jpeg)
-
+Architecture prior to British colonial settlement shared the style of the neighbouring Lingnan region.
 ### Pang uk
 
 Translates to "shack house". A ***Pang uk*** is a type of stilt house found in Hong Kong. 
