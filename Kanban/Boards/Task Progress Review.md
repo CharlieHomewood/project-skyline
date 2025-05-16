@@ -18,6 +18,7 @@ kanban-plugin: board
 
 ## In-Progress (15)
 
+- [ ] [[Research & Design Basic Boss Backgrounds and Written Concepts]]
 - [ ] [[Begin to learn Unreal]]
 - [ ] [[Migrate Google Drive files to Obsidian vault]]
 - [ ] [[Set up Obsidian vault]]
