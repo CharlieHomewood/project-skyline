@@ -2,6 +2,7 @@
 assignees:
   - Charlie
   - Louis
+  - Ethan
 date created: 2025-05-14
 date completed: 
 date due: 2026-07-17
