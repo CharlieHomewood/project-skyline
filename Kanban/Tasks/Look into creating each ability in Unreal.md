@@ -9,13 +9,14 @@ tags:
 ---
 
 description::<br>
-Look into creating the in-game abilities for each colour
+Look into creating the in-game abilities for each colour. Yellow and Cyan(Blue) 
 ## Sub-tasks
 
  - [ ] Red
  - [ ] Orange
  - [ ] Green
- - [ ] C
+ - [ ] Indigo
+ - [ ] Violet
 
 ## Relevant Notes
 
