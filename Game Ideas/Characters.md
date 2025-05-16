@@ -1,4 +1,4 @@
-Swappable player characters?
+Swappable player characters? swap characters depending on chapter?
 
 Li Huo?, Male, 
  - Affluent person born and raised high up
