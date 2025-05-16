@@ -4,7 +4,9 @@
 
 ### Walled villages
 
-Hong Kong has many walled villages. These
+Hong Kong has many walled villages - parts of
+
+These were originally constructed to protect from pirate incursions. 
 
 ## Demographics
 
