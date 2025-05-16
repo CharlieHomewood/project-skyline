@@ -20,7 +20,7 @@ kanban-plugin: board
 ## In-Progress (15)
 
 - [ ] [[Learn Unreal 5 Procedural Generation , Nanite Texturing & Lumin Lighting]]
-- [ ] [[Research & Design Basic Boss Backgrounds and Written Concepts 1]]
+- [ ] [[Research & Design Basic Boss Backgrounds and Written Concepts]]
 - [ ] [[Begin to learn Unreal]]
 - [ ] [[Migrate Google Drive files to Obsidian vault]]
 - [ ] [[Set up Obsidian vault]]
