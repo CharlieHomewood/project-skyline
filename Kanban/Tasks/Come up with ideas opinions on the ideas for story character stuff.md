@@ -1,5 +1,10 @@
 ---
-assignees: []
+assignees:
+  - Charlie
+  - Ethan
+  - Harvey
+  - Jamie
+  - Louis
 date created: 2025-05-16
 date completed: 
 date due: 2025-12-05
