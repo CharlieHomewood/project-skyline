@@ -22,7 +22,7 @@ kanban-plugin: board
 - [ ] [[Learn Unreal 5 Procedural Generation , Nanite Texturing & Lumin Lighting]]
 - [ ] [[Research & Design Basic Boss Backgrounds and Written Concepts]]
 - [ ] [[Begin to learn Unreal]]
-- [ ] [[Look into creating each ability in Unreal]]
+- [ ] [[Attempt to create each ability in Unreal]]
 - [ ] [[Level Areas Aesthetics]]
 
 
