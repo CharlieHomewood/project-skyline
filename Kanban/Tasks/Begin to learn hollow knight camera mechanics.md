@@ -18,4 +18,4 @@ description::<br>
 
 ## Relevant Notes
 
-Very nice variation, relevant story moments can be discussed to establish certain unique camera angles.
+Very nice variation, relevant story moments can be discussed to establish certain unique camera angles. - 
