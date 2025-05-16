@@ -21,17 +21,17 @@ Hong Kong has many walled villages, mostly located in the [[New Territories]]. T
 
 #### Examples
 
-##### Fanling Ching Wai
+##### Fanling Wai 粉嶺圍
 
 Village pond inside walls
 ![|500](https://i.imgur.com/YKPRKyF.png)
 
-##### Fui Sha Wai
+##### Fui Sha Wai 灰沙圍
 
 Entrance gate:
 ![|500](https://i.imgur.com/TuLSYHv.png)
 
-##### Nam Pin Wai
+##### Nam Pin Wai 南邊圍
 
 Entrance Gate:
 ![|500](https://i.imgur.com/lytmF2r.png)
