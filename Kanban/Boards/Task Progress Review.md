@@ -12,6 +12,7 @@ kanban-plugin: board
 - [ ] [[Develop understanding of how real-world human iris colour is genetically determined]]
 - [ ] [[Make lore note template]]
 - [ ] [[Set up GitHub repo for game]]
+- [ ] [[task]]
 
 
 ## In-Progress (15)
