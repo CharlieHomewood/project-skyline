@@ -19,10 +19,10 @@ kanban-plugin: board
 - [ ] [[Level Areas Aesthetics]]
 - [ ] [[Write up about Chinese mythology ideas]]
 - [ ] [[Consider a real-time collaboration tool for sketches (e.g. Miro)]]
+- [ ] [[Attempt to create each ability in Unreal]]
 - [ ] [[Learn Unreal 5 Procedural Generation , Nanite Texturing & Lumin Lighting]]
 - [ ] [[Research & Design Basic Boss Backgrounds and Written Concepts]]
 - [ ] [[Begin to learn Unreal]]
-- [ ] [[Attempt to create each ability in Unreal]]
 
 
 ## Peer-Review
