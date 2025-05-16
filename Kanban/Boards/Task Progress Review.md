@@ -12,7 +12,7 @@ kanban-plugin: board
 - [ ] [[Make tutorial note on dealing with GitHub merge conflicts]]
 - [ ] [[Develop understanding of how real-world human iris colour is genetically determined]]
 - [ ] [[Set up GitHub repo for game]]
-- [ ] Decide on how to define tasks
+- [ ] [[Decide on how to define tasks]]
 
 
 ## In-Progress (15)
