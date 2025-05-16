@@ -2,7 +2,13 @@
 
 ## Architecture
 
-### Lingnan
+### Lingnan architecture
+
+#### Wok yi uk 鑊耳屋
+
+Translates to "house with wok ears".
+
+#### Oyster shell house
 
 #### Examples
 
