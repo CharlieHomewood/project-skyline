@@ -46,7 +46,6 @@ Formerly known as Wong Nai Chung Kuk 黃泥涌谷, Happy Valley is an upper-inco
 
 ![|500](https://i.imgur.com/QFnTrlO.png)
 
-
 ## Demographics
 
 
