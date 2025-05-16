@@ -1,19 +1,14 @@
 ---
 assignees:
-  - Harvey
   - Charlie
-  - Ethan
-  - Jamie
-  - Louis
 date created: 2025-05-16
 date completed: 
-date due: 2025-05-23
+date due: ""
 tags:
   - task
 ---
 
 description::<br>
-Add ideas to the [[Areas and Levels]] drawing
 
 ## Sub-tasks
 
@@ -23,4 +18,3 @@ Add ideas to the [[Areas and Levels]] drawing
 
 ## Relevant Notes
 
-[[Areas and Levels]]
