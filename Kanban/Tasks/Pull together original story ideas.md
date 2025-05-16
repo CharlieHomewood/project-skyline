@@ -9,7 +9,7 @@ tags:
   - task
 ---
 
-description::<br>
+description::<br>Harvey and Louis have initial story ideas which we want to bring together and store in the vault
 
 ## Sub-tasks
 
