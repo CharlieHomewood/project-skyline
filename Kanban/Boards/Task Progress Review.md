@@ -18,7 +18,6 @@ kanban-plugin: board
 
 ## In-Progress (15)
 
-- [ ] [[Begin to learn hollow knight camera mechanics]]
 - [ ] [[Begin to learn Unreal]]
 - [ ] [[Migrate Google Drive files to Obsidian vault]]
 - [ ] [[Set up Obsidian vault]]
@@ -27,6 +26,7 @@ kanban-plugin: board
 
 ## Peer-Review
 
+- [ ] [[Begin to learn hollow knight camera mechanics]]
 
 
 ## Completed

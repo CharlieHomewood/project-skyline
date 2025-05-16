@@ -13,7 +13,7 @@ description::<br>
 ## Sub-tasks
 
  - [x] player camera ✅ 2025-05-14
- - [ ] level camera
+ - [x] level camera ✅ 2025-05-16
  - [ ] 
 
 ## Relevant Notes
