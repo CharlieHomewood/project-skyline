@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] [[Learn Unreal 5 Procedural Generation , Nanite Texturing & Lumin 1]]
 - [ ] [[Write out initial story ideas]]
 - [ ] [[Set up GitHub repo for game]]
 - [ ] [[Make art style guide]]
@@ -19,6 +18,7 @@ kanban-plugin: board
 
 ## In-Progress (15)
 
+- [ ] [[Learn Unreal 5 Procedural Generation , Nanite Texturing & Lumin Lighting]]
 - [ ] [[Research & Design Basic Boss Backgrounds and Written Concepts]]
 - [ ] [[Begin to learn Unreal]]
 - [ ] [[Migrate Google Drive files to Obsidian vault]]
