@@ -18,5 +18,3 @@ Developing the aesthetic and potential assets that can be developed in potential
  - [ ] 
 
 ## Relevant Notes
-
-![[Areas and Levels]]
