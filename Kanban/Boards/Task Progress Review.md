@@ -12,7 +12,6 @@ kanban-plugin: board
 - [ ] [[Make tutorial note on dealing with GitHub merge conflicts]]
 - [ ] [[Develop understanding of how real-world human iris colour is genetically determined]]
 - [ ] [[Set up GitHub repo for game]]
-- [ ] [[Decide on how to define tasks]]
 
 
 ## In-Progress (15)
@@ -36,6 +35,7 @@ kanban-plugin: board
 **Complete**
 - [x] [[Learn how to recreate hollow knight camera mechanics]] ✅ 2025-05-16
 - [x] [[Pull together original story ideas]] ✅ 2025-05-16
+- [x] [[Decide on how to define tasks]] ✅ 2025-05-16
 
 
 
