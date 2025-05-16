@@ -6,22 +6,23 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] [[Set up GitHub repo for game]]
 - [ ] [[Make art style guide]]
 - [ ] [[Start asset creation]]
+- [ ] [[Write up about Chinese mythology ideas]]
+- [ ] [[Make tutorial note on dealing with GitHub merge conflicts]]
 - [ ] [[Develop understanding of how real-world human iris colour is genetically determined]]
-- [ ] Decide on game engine
+- [ ] [[Set up GitHub repo for game]]
 - [ ] Decide on how to define tasks
 
 
 ## In-Progress (15)
 
-- [ ] [[Learn Unreal 5 Procedural Generation , Nanite Texturing & Lumin Lighting]]
-- [ ] [[Research & Design Basic Boss Backgrounds and Written Concepts]]
-- [ ] [[Begin to learn Unreal]]
 - [ ] [[Migrate Google Drive files to Obsidian vault]]
 - [ ] [[Set up Obsidian vault]]
 - [ ] [[Consider a real-time collaboration tool for sketches (e.g. Miro)]]
+- [ ] [[Learn Unreal 5 Procedural Generation , Nanite Texturing & Lumin Lighting]]
+- [ ] [[Research & Design Basic Boss Backgrounds and Written Concepts]]
+- [ ] [[Begin to learn Unreal]]
 - [ ] [[Look into creating each ability in Unreal]]
 - [ ] [[Level Areas Aesthetics]]
 
