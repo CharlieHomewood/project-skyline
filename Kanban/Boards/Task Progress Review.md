@@ -28,12 +28,12 @@ kanban-plugin: board
 
 ## Peer-Review
 
-- [ ] [[Begin to learn hollow knight camera mechanics]]
 
 
 ## Completed
 
 **Complete**
+- [x] [[Begin to learn hollow knight camera mechanics]] ✅ 2025-05-16
 
 
 
