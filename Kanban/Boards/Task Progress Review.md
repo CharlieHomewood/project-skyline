@@ -8,7 +8,6 @@ kanban-plugin: board
 
 - [ ] [[Write out initial story ideas]]
 - [ ] [[Set up GitHub repo for game]]
-- [ ] 
 - [ ] [[Make art style guide]]
 - [ ] [[Start asset creation]]
 - [ ] [[Develop understanding of how real-world human iris colour is genetically determined]]
