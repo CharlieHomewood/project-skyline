@@ -15,6 +15,7 @@ kanban-plugin: board
 - [ ] [[Come up with ideas opinions on the ideas for story character stuff]]
 - [ ] Decide on game engine
 - [ ] Decide on how to define tasks
+- [ ] [[Look into creating each ability in Unreal]]
 
 
 ## In-Progress (15)
