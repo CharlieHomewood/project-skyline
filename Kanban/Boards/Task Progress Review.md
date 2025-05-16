@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] [[Pull together original story ideas]]
 - [ ] [[Set up GitHub repo for game]]
 - [ ] [[Make art style guide]]
 - [ ] [[Start asset creation]]
@@ -35,6 +34,7 @@ kanban-plugin: board
 
 **Complete**
 - [x] [[Begin to learn hollow knight camera mechanics]] ✅ 2025-05-16
+- [x] [[Pull together original story ideas]] ✅ 2025-05-16
 
 
 
