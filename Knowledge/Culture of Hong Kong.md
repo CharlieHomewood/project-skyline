@@ -1,4 +1,19 @@
 
+
+## Architecture
+
+### Walled villages
+
+Hong Kong has many walled villages. These
+
+## Demographics
+
+
+
+## Geography
+
+
+
 ## Language
 
 Bilingual
@@ -37,8 +52,6 @@ Bilingual
 <td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:gray; width: 2.1%; overflow: hidden;"> </div></td>
 <td colspan="2" style="padding-left: 1.2em; padding-right: 0.4em; text-align: right;"> 2.1%</td>
 </tr></tbody></table>
-
-
 
 ## References
 
