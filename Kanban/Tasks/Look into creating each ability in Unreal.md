@@ -10,12 +10,12 @@ tags:
 
 description::<br>
 Look into creating the in-game abilities for each colour
-R,O,Y,G
 ## Sub-tasks
 
- - [ ] 
- - [ ] 
- - [ ] 
+ - [ ] Red
+ - [ ] Orange
+ - [ ] Green
+ - [ ] C
 
 ## Relevant Notes
 
