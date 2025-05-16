@@ -33,7 +33,7 @@ kanban-plugin: board
 ## Completed
 
 **Complete**
-- [x] [[Begin to learn hollow knight camera mechanics]] ✅ 2025-05-16
+- [x] [[Learn how to recreate hollow knight camera mechanics]] ✅ 2025-05-16
 - [x] [[Pull together original story ideas]] ✅ 2025-05-16
 
 
