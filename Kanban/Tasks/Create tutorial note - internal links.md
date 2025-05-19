@@ -1,11 +1,11 @@
 ---
 assignees:
- - Charlie
+  - Charlie
 date created: 2025-05-19
-date completed:
-date due: 
-tags: 
- - task
+date completed: 
+date due: 2025-05-23
+tags:
+  - task
 ---
 
 description::<br>Make a tutorial note to explain how internal links work in Obsidian.
@@ -18,3 +18,4 @@ description::<br>Make a tutorial note to explain how internal links work in Obsi
 
 ## Relevant Notes
 
+[[Internal links]]

@@ -13,13 +13,13 @@ kanban-plugin: board
 - [ ] [[Develop understanding of how real-world human iris colour is genetically determined]]
 - [ ] [[Make lore note template]]
 - [ ] [[Set up GitHub repo for game]]
-- [ ] [[Create tutorial note - internal links]]
 
 
-## In-Progress (15)
+## In-Progress
 
 - [ ] [[Level Areas Aesthetics]]
 - [ ] [[Write up about Chinese mythology ideas]]
+- [ ] [[Create tutorial note - internal links]]
 - [ ] [[Consider a real-time collaboration tool for sketches (e.g. Miro)]]
 - [ ] [[Attempt to create each ability in Unreal]]
 - [ ] [[Learn Unreal 5 Procedural Generation , Nanite Texturing & Lumin Lighting]]
@@ -27,21 +27,24 @@ kanban-plugin: board
 - [ ] [[Begin to learn Unreal]]
 
 
-## Peer-Review (15)
+## Peer-Review
 
 
 
-## Completed (3)
+## Completed
 
 **Complete**
+
+
+***
+
+## Archive
+
 - [x] [[Learn how to recreate hollow knight camera mechanics]] ✅ 2025-05-16
 - [x] [[Pull together original story ideas]] ✅ 2025-05-16
 - [x] [[Decide on how to define tasks]] ✅ 2025-05-16
 - [x] [[Migrate Google Drive files to Obsidian vault]] ✅ 2025-05-16
 - [x] [[Set up Obsidian vault]] ✅ 2025-05-16
-
-
-
 
 %% kanban:settings
 ```
