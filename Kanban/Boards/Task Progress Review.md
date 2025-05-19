@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] [[Write up camera mechanics guide]]
 - [ ] [[Make art style guide]]
 - [ ] [[Start asset creation]]
 - [ ] [[Make tutorial note on dealing with GitHub merge conflicts]]
