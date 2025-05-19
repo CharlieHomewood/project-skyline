@@ -8,12 +8,12 @@ Genes decide eye colour and eye colour shows what kind of magic a person can use
 | ----------------- | ---------------------- | ------------------------------------------------------------------------------------------ | ------------ |
 | [[Red]]🔴         | Crafter                | Conjure light structures                                                                   | 7%           |
 | [[Orange]]🟠      | Champion               | No lactic acid buildup and faster reflexes                                                 | 5%           |
-| [[Yellow]]🟡      | Genius                 | Perfect recall and fast calculations                                                       | 5%           |
+| [[Yellow]]🟡      | Oracle?                | Foresight?                                                                                 | 0.5%         |
 | [[Green]]🟢       | Spider                 | Elastic threads that can be sticky and can elongate/retract                                | 6%           |
 | [[Cyan]]🔵        | Observer/Witness?      | Touch material to make it see through                                                      | 3%           |
 | [[Indigo]]🟪      | Kinetics               | Push objects on vector                                                                     | 6%           |
-| [[Violet]]🟣      | Illusionist/Charmer?   | Illusions                                                                                  | 0.5%         |
-| [[Black]]⚫        | Void                   | No power                                                                                   | 67.5%        |
+| [[Violet]]🟣      | Illusionist/Charmer?   | Illusions                                                                                  | 1%           |
+| [[Black]]⚫        | Void                   | No power                                                                                   | 77.5%        |
 | [[White]]⚪        | Fragment of Brilliance | Use all powers, eyes change per colour                                                     | Mythological |
 | [[Heterochromia]] |                        | chance of each colour is the same percentage as the regular chance so most will get black. |              |
 | [[Achromatopsia]] |                        | inability to see colour. Allows them to see through violet illusions                       |              |

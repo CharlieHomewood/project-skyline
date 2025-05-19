@@ -1,0 +1,2 @@
+Originally this colour of magic has the passive effect of increasing a persons intelligence and memory. However for the purposes of a video game that doesn't have much utility so perhaps it could instead be a foresight ability?
+It can be the first ability gained and it allows the character to 'respawn' and 'load'. no extra game function but lore wise whenever the character dies it was actually just a premonition. the first time it happens it could have a short animation/cut scene.
