@@ -11,11 +11,15 @@ Internal links are a way to create hyperlink between notes inside an Obsidian va
 To create a link, use: \[\[]]
  - This will automatically open a dropdown menu where you can select or type the name of the note you wish to link to
 
-You can customise the text of a link by using the `|` separator.
+You can customise the text of a link by using the `|` separator. 
+ - The syntax would be: `[[Note name|Display text]]` which would result in a link which just appears as \[\[Display text]] but actually links to the note called `My note name`
 
  > [!example]
- > Let's say you wanted to link to the note `Hello` . You could rename the link so that it fitted in with your writing more fluently.
- > 
+ >  - Let's say we have a note called `Double jump mechanic` and you wanted to refer to that note when talking about a level design
+ >  - You might write: 
+ > 	 - "We give players access to a mid-air boost early to support vertical exploration".
+ > 	 - The "mid-air boost" is the `Double jump mechanic`
+ > 	 - So you could link to `Double jump mechanic` by writing: \[\[Double jump mechanic|mid-air boost]]
 
 These links are more specifically called **outgoing links**, as they link **outwards** to another note. If a note is linked to by some other note, it will have an implicit **backlink**. 
 
