@@ -2,7 +2,7 @@
 assignees:
   - Charlie
 date created: 2025-05-19
-date completed: 
+date completed: ""
 date due: 2025-05-23
 tags:
   - task

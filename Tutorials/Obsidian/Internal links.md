@@ -46,3 +46,8 @@ To do this, just add "#" to the end of the note's name inside the link and then 
 
 ### Internal Links in Excalidraw
 
+1. Right click on drawing and select "insert link to file"
+2. Select the note you want to link to
+3. Double click on the link to rename how it appears on the drawing
+4. To edit the actual note link, click on the edit button and change the link text
+	 - For example, you might want to add a link to a header inside a note, so you would just edit the note link as per the instructions in this tutorial

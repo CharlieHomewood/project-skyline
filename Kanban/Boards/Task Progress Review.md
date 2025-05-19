@@ -19,7 +19,6 @@ kanban-plugin: board
 
 - [ ] [[Level Areas Aesthetics]]
 - [ ] [[Write up about Chinese mythology ideas]]
-- [ ] [[Create tutorial note - internal links]]
 - [ ] [[Consider a real-time collaboration tool for sketches (e.g. Miro)]]
 - [ ] [[Attempt to create each ability in Unreal]]
 - [ ] [[Learn Unreal 5 Procedural Generation , Nanite Texturing & Lumin Lighting]]
@@ -29,6 +28,7 @@ kanban-plugin: board
 
 ## Peer-Review
 
+- [ ] [[Create tutorial note - internal links]]
 
 
 ## Completed
