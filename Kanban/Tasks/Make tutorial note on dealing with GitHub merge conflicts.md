@@ -8,7 +8,7 @@ tags:
   - task
 ---
 
-description::<br>Create a tutorial note to explain what to do when merge conflict arise
+description::<br>Create a tutorial note to explain what to do when merge conflict arise (answer: don't panic!)
 
 ## Sub-tasks
 

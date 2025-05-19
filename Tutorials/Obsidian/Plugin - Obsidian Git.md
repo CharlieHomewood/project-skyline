@@ -4,6 +4,10 @@ tags:
   - tutorial-obsidian
 ---
 
+ > [!important] Don't worry!
+ >  - If a merge conflict happens and you don't know what to do, stop everything and post a screenshot of the issue in the Discord, or describe what happened.
+ >  - Merges will mostly only happen when multiple people are using the same file at the same time.
+
 ## **Understand When Conflicts Happen**
 
 Merge conflicts occur when:
@@ -22,8 +26,9 @@ Before dealing with resolution, some best practices:
  - **Commit frequently**
 	 - The vault commits every minute automatically anyway
 
-**Detecting Merge Conflicts**
- - After a pull, if there’s a conflict, you’ll see conflict markers in your file:
+## **Detecting Merge Conflicts**
+
+After a pull, if there’s a conflict, you’ll see conflict markers in your file:
 
 ```
 <<<<<<< HEAD
@@ -33,14 +38,14 @@ Incoming changes
 >>>>>>> branch-name
 ```
 
-**Resolving Merge Conflicts**
+## **Resolving Merge Conflicts**
+
  - Open the conflicting file in Obsidian.
  - Look for the `<<<<<<<`, \=\=\=\=\=\=\=, and `>>>>>>>` markers
  - Choose what to keep (your changes, the incoming changes, or a mix).
  - Delete the markers.
- - Save the file.
  - Use the **Git commands** (Git: Stage current file, Git: Commit-and-sync) to stage the file and commit the resolution.
 
- **After Resolution**
+## **After Resolution**
  - Make sure everything is saved and correct in Obsidian.
  - Consider syncing again (`Push` to remote) to ensure all devices are up to date.
