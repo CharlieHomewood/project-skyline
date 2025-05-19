@@ -9,7 +9,7 @@ kanban-plugin: board
 - [ ] [[Write up camera mechanics guide]]
 - [ ] [[Make art style guide]]
 - [ ] [[Start asset creation]]
-- [ ] [[Develop understanding of how real-world eye colour]]
+- [ ] [[Develop understanding of how real-world iris colour]]
 - [ ] [[Make lore note template]]
 - [ ] [[Set up GitHub repo for game]]
 
