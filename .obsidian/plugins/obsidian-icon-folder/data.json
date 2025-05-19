@@ -65,9 +65,5 @@
   "Tutorials/Kanban": {
     "iconName": "LiKanban",
     "iconColor": "#ffffff"
-  },
-  "Presentation Slides": {
-    "iconName": "LiClapperboard",
-    "iconColor": "#ffffff"
   }
 }
