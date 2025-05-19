@@ -97,7 +97,7 @@
       "insertAfter": {
         "enabled": true,
         "after": "## Backlog",
-        "insertAtEnd": false,
+        "insertAtEnd": true,
         "considerSubsections": false,
         "createIfNotFound": false,
         "createIfNotFoundLocation": "top"

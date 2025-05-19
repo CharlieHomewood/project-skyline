@@ -13,6 +13,7 @@ kanban-plugin: board
 - [ ] [[Develop understanding of how real-world human iris colour is genetically determined]]
 - [ ] [[Make lore note template]]
 - [ ] [[Set up GitHub repo for game]]
+- [ ] [[Create tutorial note - internal links]]
 
 
 ## In-Progress (15)
@@ -26,11 +27,11 @@ kanban-plugin: board
 - [ ] [[Begin to learn Unreal]]
 
 
-## Peer-Review
+## Peer-Review (15)
 
 
 
-## Completed
+## Completed (3)
 
 **Complete**
 - [x] [[Learn how to recreate hollow knight camera mechanics]] ✅ 2025-05-16

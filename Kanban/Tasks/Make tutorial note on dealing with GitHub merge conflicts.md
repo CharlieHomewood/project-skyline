@@ -8,7 +8,7 @@ tags:
   - task
 ---
 
-description::<br>
+description::<br>Create a tutorial note to explain what to do when merge conflict arise
 
 ## Sub-tasks
 
@@ -18,3 +18,4 @@ description::<br>
 
 ## Relevant Notes
 
+[[Plugin - Obsidian Git]]
