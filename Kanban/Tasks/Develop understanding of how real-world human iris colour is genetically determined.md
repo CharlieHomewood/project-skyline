@@ -9,11 +9,11 @@ tags:
   - task
 ---
 
-description::<br>
+description::<br>Magic ability is determined by iris colour, so understanding real-world iris colour inheritance might offer inspiration.
 
 ## Sub-tasks
 
- - [ ] 
+ - [ ] Make note on how iris colour is inherited in humans
  - [ ] 
  - [ ] 
 
