@@ -4,3 +4,12 @@ tags:
   - tutorial-obsidian
 ---
 
+## Internal Links
+
+
+
+### Linking to Subsections
+
+
+
+### Internal Links in Excalidraw
