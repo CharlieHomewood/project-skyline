@@ -9,7 +9,6 @@ kanban-plugin: board
 - [ ] [[Write up camera mechanics guide]]
 - [ ] [[Make art style guide]]
 - [ ] [[Start asset creation]]
-- [ ] [[Make tutorial note on dealing with GitHub merge conflicts]]
 - [ ] [[Develop understanding of how real-world human iris colour is genetically determined]]
 - [ ] [[Make lore note template]]
 - [ ] [[Set up GitHub repo for game]]
@@ -29,6 +28,7 @@ kanban-plugin: board
 ## Peer-Review
 
 - [ ] [[Create tutorial note - internal links]]
+- [ ] [[Make tutorial note on dealing with GitHub merge conflicts]]
 
 
 ## Completed
