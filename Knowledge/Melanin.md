@@ -3,7 +3,6 @@ Melanin refers to a family of related molecules, responsible for things like eye
 
 Humans have three forms of melanin:
  - Eumelanin
-	 - 
  - Phaeomelanin
  - Neuromelanin
 
