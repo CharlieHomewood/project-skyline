@@ -3,8 +3,7 @@
 
 ### Human
 
-Iris colour varies from light brown to black, based on the amount of [[Melanin|melanin]] in the [[Iris pigment epithelium|iris pigment epithelium]]
-
+[[Iris]] colour varies from light brown to black, based on the amount of [[Melanin|melanin]] in the [[Iris pigment epithelium|iris pigment epithelium]]
 
 
 ## Genetic determination
