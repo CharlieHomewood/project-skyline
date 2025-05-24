@@ -1,0 +1,17 @@
+---
+layout: page
+title: Projects
+permalink: projects
+category: header
+order: 2
+---
+
+<div id="projectpage-body">
+    <div id="projectpage-container">
+        {% for page in site.pages %}
+            {% if page.category == "projectpage" %}
+                <a id="projectpage-item" href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+            {% endif %}    
+        {% endfor %}
+    </div>
+</div>

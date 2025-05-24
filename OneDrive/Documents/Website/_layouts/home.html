@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div id="home-body">
+
+    <div id="home-h1">
+        <a id="home-h1-link" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    </div>
+
+    <div id="home-midsection">
+        <div id="home-nav-container-a">
+            {% assign sorted_pages = site.pages | sort: "order" %}
+            {% for page in sorted_pages %}
+                {% if page.category == "header" and page.title != "Home" %}
+                    <a id="home-nav-a" href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+                {% endif %}    
+            {% endfor %}
+        </div>
+    </div>
+
+    {{ content }}
+    {% include footer.html %}
+    
+</div>
