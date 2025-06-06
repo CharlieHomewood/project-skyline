@@ -21,7 +21,7 @@ QuickAdd is a [[Community Plugins|community plugin]] which allows you to automat
 
 Templates will create a new note with a specified template. 
 
-> [!example] An example...
+> [!example]
 > We have a QuickAdd choice for a `Meeting` template
 > 
 > When this is selected, this choice will create a new meeting note for the current day (assuming one does not already exist).
@@ -30,7 +30,7 @@ Templates will create a new note with a specified template.
 
 Captures allow you to quickly add content to a note without actually opening that note and writing anything down/clicking anything on the note.
 
-> [!example] An example...
+> [!example]
 > We have an `Add Task to Backlog` capture choice. 
 > 
 > Selecting this choice opens a text box where you can name a new task. 
@@ -47,7 +47,7 @@ This choice is both extremely powerful and difficult to use, most often requirin
 
 This choice simply functions as a folder to store other choices inside of, making it easier to organise and navigate the QuickAdd menu.
 
-> [!example] An example...
+> [!example]
 > We have a multi choice called `📋 Create a New Note`.
 > 
 > This simply stores different categories of note templates to choose from in the QuickAdd menu.

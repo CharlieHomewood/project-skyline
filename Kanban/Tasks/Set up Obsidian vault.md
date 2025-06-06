@@ -12,8 +12,8 @@ description::<br>Set-up the initial functionality of the Obsidian vault so that 
 
 ## Sub-tasks
 
- - [ ] Make tutorials for basic usage of Obsidian 
- - [ ] Build out `lore-note` template
+ - [x] Make tutorials for basic usage of Obsidian ✅ 2025-05-20
+ - [ ] 
  - [ ] 
 
 ## Relevant Notes
